@@ -1,0 +1,22 @@
+.container{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+    background-color: rgba(173, 116, 116, 0.452)
+}
+
+.container div{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.snake{
+    background-color: rgb(157, 165, 42);
+}
+
+.apple{
+    background-color: rgb(39, 133, 128);
+}
